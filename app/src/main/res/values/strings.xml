@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CSC567_Application</string>
+    <string name="playing">Currently Playing</string>
+    <string name="songs">Songs Will Be Listed Here</string>
+    <string name="chart">Your Music Stats Will Be Displayed Here</string>
+    <string name="setting">Settings</string>
+</resources>
